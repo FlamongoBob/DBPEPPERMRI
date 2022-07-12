@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application_DBTEST</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="view_data">View Data</string>
+    <string name="add_user">add User</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+
+</resources>
